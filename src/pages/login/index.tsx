@@ -2,7 +2,7 @@
 
 function Login() {
   return (
-    <div>Login</div>
+    <div>Login - orniga Narsa qoydim</div>
   )
 }
 
