@@ -2,7 +2,9 @@
 
 function Categories() {
   return (
-    <div>Categories</div>
+    <div>
+      <h1>Ozgarish qoshildi</h1>
+    </div>
   )
 }
 
